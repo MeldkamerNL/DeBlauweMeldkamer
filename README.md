@@ -47,6 +47,16 @@ Een op maat gemaakt meldkamersysteem voor **FiveM Roleplay servers**, ontwikkeld
 
 ---
 
+### 📶 `/polstatus [online/bezet/offline]`
+- `/polstatus online` → Agent staat **beschikbaar**
+- `/polstatus bezet` → Agent is **bezig met een melding**
+- `/polstatus offline` → Agent is **uit dienst**
+- ℹ️ Meldkamer ziet realtime statusupdates van alle agenten
+
+---
+
+---
+
 ## 🚨 Paniekknop
 
 ### 🛑 /panic
